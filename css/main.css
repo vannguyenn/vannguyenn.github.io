@@ -449,7 +449,7 @@
 
 
 .skill.des .progress {
-	border:1px solid #efefef;
+	border:1px solid #eb874f;
 }
 
 
@@ -461,6 +461,9 @@
 	border:1px solid #33373d;
 }
 
+.skill.lang .progress {
+	border:1px solid #558e6a;
+}
 
 .progress .percentage {
 	border-radius: 50px 0 0 50px;
@@ -475,7 +478,7 @@
 
 
 .skill.des .progress .percentage {
-	background-color: #efefef;
+	background-color:#eb874f;
 }
 
 
@@ -488,6 +491,9 @@
 	background-color: #33373d;
 }
 
+.skill.lang .progress .percentage {
+	background-color:#558e6a;
+}
 
 .percentage .percent {
  	position: absolute;
@@ -523,7 +529,7 @@
 
 
 .skill .title.des{
-	border: 1px dashed #efefef;
+	border: 1px dashed #eb874f;
 }
 
 .skill .title.dev{
@@ -534,6 +540,9 @@
 	border: 1px dashed #33373d;
 }
 
+.skill .title.lang{
+	border: 1px dashed #558e6a;
+}
 
 
 
